@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+header {
+    background-image: url('../img/mingo.jpg');  /* Imagen de fondo Doflamingo*/
+    background-size: cover;
+    color: #fff;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+header strong{
+    font-size: 37px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin: 10px 0 0;
+    font-size: 18px;
+}
+
+.frutas {
+    width: 80%;
+    margin: auto;
+}
+
+.frutas td {
+    width: 50%;
+    padding: 0.5em;
+}
+
+.frutas img {
+    width: 50%;
+    border: solid 1px #ddd;
+    margin-right: 10px;
+}
+
+
+footer {
+    background-color: #cc8f4e;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
